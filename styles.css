@@ -96,8 +96,10 @@ width:50%;
 		display: block;
 		background:rgb(21, 21, 21);
 		color:white;
-		width:20%;
-		padding:1rem 0;
+		width:5%;
+		padding:2rem;
+		border-radius: 4%;
+		
 		
 	}
 	.menu-icon:hover{
@@ -106,21 +108,19 @@ width:50%;
 	}
 
 	.nav-brand{
-		width:80%;
+		width:95%;
+		padding:1rem;
 	}
 	.nav-list ul {
 		display:none;
 	}
 	.nav-list ul.show{
 		display:block;
+		
 	}
 	
 }
-@media screen and (max-width:1000px){
 
-	
-
-}
 
 .woods-img{
 	display: flex;
